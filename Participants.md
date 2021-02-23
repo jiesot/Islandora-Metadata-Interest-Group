@@ -45,4 +45,4 @@
 * Erin Tripp (Lyrasis)
 * Susan J. Vossberg (Northwestern Health Sciences University/PALS)
 * Teresa Weisser (Millersville University of Pennsylvania)
-
+* Jimena Escobar (Instituto Nacional de Antropología e Historia, México)
